@@ -2,6 +2,12 @@
 
 Repo for 301 final project pre-work.
 
+Team members:
+Elias Staehle
+Seth Pierce
+Raphael Chookagian
+Dennis Nichols
+
 ## Team Agreement
 
 ### Cooperation Plan
